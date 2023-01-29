@@ -6,6 +6,8 @@ import VideoDetail from "./VideoDetail";
 import Sidebar from "./Sidebar";
 import SearchBar from "./SearchBar";
 import Videos from "./Videos";
+import VideoCard from "./VideoCard";
+import ChannelCard from "./ChannelCard";
 
 export {
   ChannelDetail,
@@ -16,4 +18,6 @@ export {
   Sidebar,
   SearchBar,
   Videos,
+  VideoCard,
+  ChannelCard,
 };
